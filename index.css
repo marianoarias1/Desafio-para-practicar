@@ -80,7 +80,7 @@ li{
     color: #211F1F;
     font-weight: 600;
     background:#F5F5F5;
-    transition: all 1s ease;
+    transition: all 0.4s ease;
 }
 
 .boton:hover{
