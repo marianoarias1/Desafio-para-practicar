@@ -92,3 +92,39 @@ a{
     text-decoration: none;
     color:#211F1F;
 }
+
+.titulo-h2{
+    text-align: center;
+    align-items: center;
+    margin: 16rem 0px;
+    color:#F5F5F5;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3rem;
+}
+
+.clases{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.p-titulo{
+    display: flex;
+    text-align: center;
+    margin-top: 3rem;
+    flex-direction: row;
+    color:#F5F5F5;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+.p-info{
+    width: 10rem;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    color:#F5F5F5;
+    font-family: 'Raleway', sans-serif;
+}
