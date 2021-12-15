@@ -84,7 +84,7 @@ li{
 }
 
 .boton:hover{
-    width: 30%;
+    width: 25%;
     background-color:#E95F5F;
 }
 
@@ -96,7 +96,7 @@ a{
 .titulo-h2{
     text-align: center;
     align-items: center;
-    margin: 16rem 0px;
+    margin-top: 16rem;
     color:#F5F5F5;
     font-family: 'Raleway', sans-serif;
     font-size: 3rem;
@@ -128,3 +128,4 @@ a{
     color:#F5F5F5;
     font-family: 'Raleway', sans-serif;
 }
+
